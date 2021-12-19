@@ -53,4 +53,20 @@ height: 7%;
     50% {top: 90%; left: 50%;}
     75% {top: 1%; left: 10%; transform:rotate(-360deg)}
     100% {top: 50%; left: 50%;}
+}    
+#p4
+{animation: 9s infinite p4;
+position: fixed;
+left: 0%;
+top: 1%;
+width: 7%;
+height: 7%;  
+    
+@keyframes p4
+{
+    0% {top: 50%; left: 50%;}
+    25% {top: 10%; left: 90%; transform:rotate(360deg)}
+    50% {top: 90%; left: 50%;}
+    75% {top: 1%; left: 10%; transform:rotate(-360deg)}
+    100% {top: 50%; left: 50%;}
 }
