@@ -3,20 +3,20 @@ body
     font-family: Buxton sketch;
     font-size: 16pt;
     color: white;
-    background-color: blue;
+    background-color: ;
 }
 div.menu_tlo{
     height: 25%;
     width: 90%;
-    background: green;
+    background: ;
 }
 div.strona{
     height:450px;
     width:90%
-    background:green;
+    background:;
 }
 div.stopka{
     height:50px;
     width: 90px;
-    background: red;
+    background: ;
 }   
